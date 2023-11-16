@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "text": "image1",
+      "link": "/images/01.jpg"
+    },
+    {
+      "text": "image2",
+      "link": "/images//02.jpg"
+    },
+    {
+      "text": "image3",
+      "link": "/images/03.jpg"
+    },
+    {
+      "text": "image4",
+      "link": "/images/04.jpg"
+    },
+    {
+      "text": "image4",
+      "link": "/images/05.jpg"
+    },
+    {
+      "text": "image4",
+      "link": "/images/06.png"
+    }
+  ]
+}
